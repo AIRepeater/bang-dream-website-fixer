@@ -38,5 +38,5 @@ Violentmonkey：Chrome | Firefox
 
 使用方法
 正确配置脚本管理器浏览器拓展后，脚本会自动运行。当您访问以下网站时，脚本会自动生效：
-https://bang-dream.com/*
-https://*.bang-dream.com/*
+# https://bang-dream.com/*
+# https://*.bang-dream.com/*
